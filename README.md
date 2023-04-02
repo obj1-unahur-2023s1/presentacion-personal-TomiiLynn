@@ -18,8 +18,6 @@ Tengo 21 años, soy alumno de la Universidad Nacional de Hurlingham, el cual me 
 * Ingles I.
 * Programacion de objetos I.
 
-Me considero una persona muy apasionado al deporte.
-
 ## Deportes realizados
 * Futbol 11. :soccer:
 * Futsal. :soccer:
@@ -28,6 +26,8 @@ Me considero una persona muy apasionado al deporte.
 * Handball. :handball_person:
 * Natacion. :swimmer:
 * Basquet. :basketball:
+
+Me considero una persona muy apasionado al deporte.
 
 ## Tengo como proyectos principales en este año. 
 * Dedicar el mayor tiempo posible fuera y dentro de la universidad a lo referido con la Programacion.
